@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Code/Infrastructure/Character.cs">
+    <Files>
+      <File FileName="Assets/Code/Buttons/Buttongame_Dash.cs" Line="32" Column="5" />
+      <File FileName="Assets/Code/Infrastructure/Character.cs" Line="121" Column="9" />
+      <File FileName="Assets/Code/Hazards/Monster_All.cs" Line="107" Column="32" />
+      <File FileName="Assets/Code/Hazards/Hazard_All.cs" Line="70" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
